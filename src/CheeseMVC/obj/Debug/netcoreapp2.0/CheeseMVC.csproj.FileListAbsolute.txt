@@ -9,3 +9,14 @@
 /Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC-1/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.AssemblyInfo.cs
 /Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC-1/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.dll
 /Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC-1/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.pdb
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.deps.json
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.runtimeconfig.json
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.runtimeconfig.dev.json
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.dll
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.pdb
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.csprojResolveAssemblyReference.cache
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.csproj.CoreCompileInputs.cache
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.AssemblyInfoInputs.cache
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.AssemblyInfo.cs
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.dll
+/Users/kristofer/Dropbox/lc101/Unit3/CheeseMVC/src/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.pdb

@@ -1,6 +1,15 @@
 ﻿<Properties StartupConfiguration="{6AFD9555-CD44-4530-AEFF-15264D392DF0}|Default">
   <MonoDevelop.Ide.ItemProperties.src.CheeseMVC PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/CheeseMVC/ViewModels/AddCheeseViewModel.cs">
+    <Files>
+      <File FileName="src/CheeseMVC/Controllers/CheeseController.cs" Line="39" Column="17" />
+      <File FileName="src/CheeseMVC/Views/Cheese/Index.cshtml" Line="18" Column="34" />
+      <File FileName="src/CheeseMVC/ViewModels/AddCheeseViewModel.cs" Line="23" Column="11" />
+      <File FileName="src/CheeseMVC/Views/Cheese/Add.cshtml" Line="16" Column="57" />
+      <File FileName="src/CheeseMVC/Models/Cheese.cs" Line="31" Column="9" />
+      <File FileName="src/CheeseMVC/Models/CheeseType.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
